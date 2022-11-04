@@ -1,4 +1,4 @@
 # Vending Machine
-## ![スクリーンショット 2022-11-04 19 46 17](https://user-images.githubusercontent.com/101037787/199954694-89455ad8-c019-46c9-9e30-3ab15dd06a58.png)
-### DOM操作を用いてボタンに応じて画像がスライドするフロントエンド処理を実装
+## ![スクリーンショット 2022-11-04 19 52 41](https://user-images.githubusercontent.com/101037787/199956007-6fdfa75f-5b7f-4d3c-9dea-8f7330fcb150.png)
+## DOM操作を用いてボタンに応じて画像がスライドする処理を実装
 ### SLIDER
